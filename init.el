@@ -78,3 +78,4 @@
 ;;; init.el ends here
 
 (server-start)
+(put 'upcase-region 'disabled nil)
